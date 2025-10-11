@@ -1,5 +1,5 @@
 # Ex-1-Developing-AI-Agent-with-PEAS-Description
-### Name: Sharukesh T
+### Name: 
 
 ### Register Number: 2305002022
 
@@ -9,7 +9,7 @@ To find the PEAS description for the given AI problem and develop an AI agent.
 ### Theory :
 PEAS stands for:
 '''
-P-Performance measure
+P
 
 E-Environment
 
